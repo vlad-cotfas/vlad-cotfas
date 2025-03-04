@@ -4,8 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" />
 </p>
 
-<!--## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋, 𝘝𝘭𝘢𝘥 𝘩𝘦𝘳𝘦, ®𝘙𝘦𝘮𝘰𝘵𝘦 𝘚𝘞𝘌, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘔𝘰𝘣𝘪𝘭𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 📲-->
-
 <i>
 — Independent Freelance Consultant with 10+ years in tech, highly adaptable while working autonomously or within your team, always committed to maintaining a healthy business relationship while crafting high-quality results for clients worldwide.
 </i>
@@ -35,14 +33,14 @@
 <br />
 📍 You know where to find me — https://linkedin.com/in/vladcotfas 🚀 or →→→ vlad@digitalbinary.io 📩<br />
 
-
+<!--
 <br>
 
 🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻:
 <p align="justify">
 <code>Gabriel M. (Founder and Owner) — “Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”</code>
 </p>
-
+-->
 <!--
 <details><summary>🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (click to expand)</summary>
 <br />
