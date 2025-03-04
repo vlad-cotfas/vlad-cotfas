@@ -19,8 +19,8 @@
 💻 Java Backend Engineer for 3 years<br />
 🏅 Java Oracle Certified in 2013<br />
 ♻️ Volunteer and Rotaract Board Treasurer in 2019<br />
-📲 LinkedIn "Top Mobile Apps Voice" from Sep — Dec 2024<br />
-💯 Verified Expert in Engineering, Freelance Toptal Member since Oct 2024<br />
+📲 LinkedIn "Top Mobile Apps Voice" from Sep-Dec 2024<br />
+💯 Freelance TOPTAL Member since Oct 2024<br />
 🧩 Wrote features that runs on 1M+ mobile devices<br />
 </i>
 <br />
