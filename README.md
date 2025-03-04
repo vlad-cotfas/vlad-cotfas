@@ -1,19 +1,13 @@
 [![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/MobileEngineer-Header-1500x500.jpeg)](https://digitalbinary.io)
 
-<!--<p align="right">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" />
-</p>-->
+</p>
 
 <!--## 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦 👋, 𝘝𝘭𝘢𝘥 𝘩𝘦𝘳𝘦, ®𝘙𝘦𝘮𝘰𝘵𝘦 𝘚𝘞𝘌, 𝘮𝘰𝘴𝘵𝘭𝘺 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘔𝘰𝘣𝘪𝘭𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 📲-->
 
 <i>
-— Independent contractor that I can work as solo or within a team, to build your project idea to life, and maintaining a healthy business relationship.
-</i>
-
-<p></p>
-
-<i>
-— Proficient and talented Mobile Engineer with over 10 years of experience in the tech field, having worked with clients worldwide — possessing excellent soft skills, a responsible team player who takes ownership of my work, and strongly believing in a quality-driven, results-oriented mindset.
+— Independent Freelance Consultant with 10+ years in tech, highly adaptable while working autonomously or within your team, always committed to maintaining a healthy business relationship while crafting high-quality results for clients worldwide.
 </i>
 
 ##
@@ -24,20 +18,22 @@
 🗺️ Digital Remote since 2015<br />
 🤖 Android Engineer since 2012<br />
 📱 Apple / iOS Developer since 2017<br />
+💻 Java Backend Engineer for 3 years<br />
 🏅 Java Oracle Certified in 2013<br />
 ♻️ Volunteer and Rotaract Board Treasurer in 2019<br />
-📲 LinkedIn 'Top Mobile Applications Voice', Sep — Dec 2024<br />
+📲 LinkedIn "Top Mobile Apps Voice" from Sep — Dec 2024<br />
 💯 Verified Expert in Engineering, Freelance Toptal Member since Oct 2024<br />
-🧩 Wrote code that runs on 1M+ mobile devices<br />
+🧩 Wrote features that runs on 1M+ mobile devices<br />
 </i>
 <br />
 [CTA]<br />
 
 ► 𝗢𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗳𝗶𝗲𝗹𝗱𝘀!<br />
-► Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️ — Flexibility and openness to occasional on-site visits! <br />
+► Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️ — Flexibility and openness to occasional on-site visits!<br />
+► Collaboration type: full-time, part-time, freelance, consulting, contracting, B2B.<br />
 ► Preferring to work autonomously without micromanagement on startup or product projects where I can be fully involved! 💯<br />
 <br />
-📍 Send me a LinkedIn - https://linkedin.com/in/vladcotfas 🚀 DM or reach out on my email address for any inquiry →→→ vlad@digitalbinary.io 📩<br />
+📍 You know where to find me — https://linkedin.com/in/vladcotfas 🚀 or →→→ vlad@digitalbinary.io 📩<br />
 
 
 <br>
