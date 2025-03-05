@@ -5,7 +5,7 @@
 </p>
 
 <i>
-— Independent Freelance Consultant with 10+ years in tech, highly adaptable while working autonomously or within your team, always committed to maintaining a healthy business relationship while crafting high-quality results for clients worldwide.
+— Independent Freelance Consultant with 10+ years in tech, highly adaptable while working autonomously or within a team. Always committed to maintaining healthy business relationships while crafting high-quality results for clients worldwide.
 </i>
 
 ##
