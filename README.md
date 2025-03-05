@@ -11,18 +11,16 @@
 ##
 <br />
 [TL;DR]<br />
-<i>
-⚡ Senior Software Engineer with 10+ Yrs Exp<br />
-🗺️ Digital Remote since 2015<br />
-🤖 Android Engineer since 2012<br />
-📱 Apple / iOS Developer since 2017<br />
-💻 Java Backend Engineer for 3 years<br />
-🏅 Java Oracle Certified in 2013<br />
-♻️ Volunteer and Rotaract Board Treasurer in 2019<br />
-📲 LinkedIn "Top Mobile Apps Voice" from Sep-Dec 2024<br />
-💯 Freelance TOPTAL Member since Oct 2024<br />
-🧩 Wrote features that runs on 1M+ mobile devices<br />
-</i>
+⚡ <i>Senior Software Engineer with 10+ Yrs Exp<br /></i>
+🗺️ <i>Digital Remote since 2015<br /></i>
+🤖 <i>Android Engineer since 2012<br /></i>
+📱 <i>Apple / iOS Developer since 2017<br /></i>
+💻 <i>Java Backend Engineer for 3 years<br /></i>
+🏅 <i>Java Oracle Certified in 2013<br /></i>
+♻️ <i>Volunteer and Rotaract Board Treasurer in 2019<br /></i>
+📲 <i>LinkedIn "Top Mobile Apps Voice" from Sep-Dec 2024<br /></i>
+💯 <i>Freelance TOPTAL Member since Oct 2024<br /></i>
+🧩 <i>Wrote features that run on 1M+ mobile devices<br /></i>
 <br />
 [CTA]<br />
 
