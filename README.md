@@ -1,4 +1,4 @@
-[![Top Header](https://github.com/cotfas/cotfas/blob/main/extras/MobileEngineer-Header-1500x500.jpeg)](https://digitalbinary.io)
+[![Top Header](https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/MobileEngineer-Header-1500x500.jpeg)](https://digitalbinary.io)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" />
@@ -152,12 +152,12 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   <tr>
     <td style="text-align: center;">
       <a href="https://play.google.com/store/apps/details?id=com.cashdivider.app" target="_blank">
-        <img src="https://github.com/cotfas/cotfas/blob/main/extras/CashDividerAndroidApp.png" alt="Cash Divider App" style="width: 100%; max-width: 50%;"/>
+        <img src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/CashDividerAndroidApp.png" alt="Cash Divider App" style="width: 100%; max-width: 50%;"/>
       </a>
     </td>
     <td style="text-align: center;">
       <a href="https://play.google.com/store/apps/details?id=ro.rilley.dailybibleapp" target="_blank">
-        <img src="https://github.com/cotfas/cotfas/blob/main/extras/DailyQuotesApp003.png" alt="Daily Quotes App" style="width: 100%; max-width: 45%;"/>
+        <img src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/DailyQuotesApp003.png" alt="Daily Quotes App" style="width: 100%; max-width: 45%;"/>
       </a>
     </td>
   </tr>
@@ -168,8 +168,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <!-- Stats projects -->
 <p align="center">
-  <a href="https://raw.githubusercontent.com/cotfas/cotfas/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC---blured-tiny.png">
-  <img align="center" width="95%" src="https://github.com/cotfas/cotfas/blob/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC---blured-tiny.png"/>
+  <a href="https://raw.githubusercontent.com/vlad-cotfas/vlad-cotfas/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC---blured-tiny.png">
+  <img align="center" width="95%" src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC---blured-tiny.png"/>
   </a>
 </p>
 
@@ -185,7 +185,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 <p align="center">
-  <a href="https://github.com/cotfas/Mobile-SDK-Camera-Public">
+  <a href="https://github.com/vlad-cotfas/Mobile-SDK-Camera-Public">
   <img align="center" width="85%" src="https://github.com/user-attachments/assets/db8f3be7-2ddd-4892-9c18-d70c0155f3b3"/>
   </a>
 </p>
@@ -202,8 +202,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 <br />
 <p align="center">
-  <a href="https://github.com/cotfas/Bypass-Android-SSLPinning-MitM">
-  <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg"/>
+  <a href="https://github.com/vlad-cotfas/Bypass-Android-SSLPinning-MitM">
+  <img align="center" width="75%" src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/BypassAndroidSSLPinning.jpg"/>
   </a>
 </p>
 
@@ -217,7 +217,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 <br />
 <p align="center">
-  <a href="https://github.com/cotfas/Android-Device-Connector">
+  <a href="https://github.com/vlad-cotfas/Android-Device-Connector">
   <img align="center" width="75%" src="https://github.com/user-attachments/assets/0798fc79-8a4e-460b-90f8-ca1c00e36115"/>
   </a>
 </p>
@@ -232,8 +232,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 <br />
 <p align="center">
-  <a href="https://github.com/cotfas/TotalCommander-OSX">
-  <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/TotalCommanderOnMac.jpeg"/>
+  <a href="https://github.com/vlad-cotfas/TotalCommander-OSX">
+  <img align="center" width="75%" src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/TotalCommanderOnMac.jpeg"/>
   </a>
 </p>
 
@@ -248,8 +248,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 <p align="center">
-  <a href="https://github.com/cotfas/BookForSnack-iOS">
-  <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/book-for-snack-screenshot-tiny.png"/>
+  <a href="https://github.com/vlad-cotfas/BookForSnack-iOS">
+  <img align="center" width="75%" src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/book-for-snack-screenshot-tiny.png"/>
   </a>
 </p>
 
@@ -263,8 +263,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/cotfas/cotfas/refs/heads/main/extras/trackpad-app.png">
-  <img align="center" width="75%" src="https://github.com/cotfas/cotfas/blob/main/extras/trackpad-app.png"/>
+  <a href="https://raw.githubusercontent.com/vlad-cotfas/vlad-cotfas/refs/heads/main/extras/trackpad-app.png">
+  <img align="center" width="75%" src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/trackpad-app.png"/>
   </a>
 </p>
 
