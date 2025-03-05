@@ -139,9 +139,10 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <p align=center>
   <b>📱 Projects ⚒️</b>
   </br>
-  <sub>📲 <i>Developed an Android Inspirational Quotes App with daily scheduled notifications, with 38k+ installs.</i></sub>
-  </br>
   <sub>💹 <i>Created a Finance Management Android App with account overview, percentage calculations, currency and graphical representation.</i></sub>
+  </br>
+  <sub>📲 <i>Developed an Android Inspirational Quotes App with daily scheduled notifications, gaining 38k+ installs.</i></sub>
+  <sub><i>— While the Quotes App has a spiritual theme, I’m not deeply fanatic; the project gained traction and taught me about startups.</i></sub>
 </p>
 
 <br />
