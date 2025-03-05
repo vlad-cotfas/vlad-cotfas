@@ -31,7 +31,7 @@
 ► Collaboration type: full-time, part-time, freelance, consulting, contracting, B2B.<br />
 ► Preferring to work autonomously without micromanagement on startup or product projects where I can be fully involved! 💯<br />
 <br />
-📍 You know where to find me — https://linkedin.com/in/vladcotfas 🚀 or →→→ vlad@digitalbinary.io 📩<br />
+📍 You know where to find me — https://linkedin.com/in/vladcotfas OR →→→ vlad@digitalbinary.io 📩<br />
 
 <!--
 <br>
