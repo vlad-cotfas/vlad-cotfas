@@ -261,7 +261,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 -----------------
-> ⚠️ <i>Disclamer: This is my personal Github account, and took the liberty to make it public, and what you see here is only 5% of my whole career — most of the work that I did in the past, was in closed repositories, where I worked with high-tech stuff using Java, Kotlin, Swift, and React Native.</i>
+> ⚠️ <i>Disclaimer: This is my personal GitHub account, and I took the liberty of making it public. What you see here is only 5% of my entire career — most of my past work was in closed repositories, where I worked on high-tech projects using Java, Kotlin, Swift, and React Native.</i>
 
 
 
