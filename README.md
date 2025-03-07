@@ -20,7 +20,7 @@
 ♻️ <i>Volunteer and Rotaract Board Treasurer in 2019<br /></i>
 📲 <i>LinkedIn "Top Mobile Apps Voice" from Sep-Dec 2024<br /></i>
 💯 <i>Freelance TOPTAL Member since Oct 2024<br /></i>
-🧩 <i>Wrote features that run on 1M+ mobile devices<br /></i>
+🧩 <i>Wrote features that runs on 1M+ mobile devices<br /></i>
 <br />
 [CTA]<br />
 
