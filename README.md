@@ -9,7 +9,7 @@
 </i>
 
 ##
-<div dir="rtl"><sub><sup><i>Vlad Cotfas — Delivering elite solutions from anywhere</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>!Vlad Cotfas — Delivering elite solutions from anywhere</i></sup></sub></div>
 
 <br />
 [TL;DR]<br />
