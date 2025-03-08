@@ -263,7 +263,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 -----------------
-> ⚠️ <i>Disclaimer: This is my personal GitHub account, and I took the liberty of making it public. What you see here is only 5% of my entire career — most of my past work was in closed repositories, where I worked as a backend and mobile engineer on high-tech projects using Java, Kotlin, Swift, and React Native for reputable companies.</i>
+> ⚠️ <i>Disclaimer: This is my personal GitHub account, and I took the liberty of making it public. What you see here is only 5% of my entire career — most of my work has been in private repositories, where I’ve contributed as a backend and mobile engineer to high-tech projects for well-known companies, using Java, Kotlin, Swift, and React Native.</i>
 
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
