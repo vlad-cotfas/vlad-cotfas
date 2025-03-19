@@ -5,14 +5,13 @@
 </p>
 
 <i>
-— Independent Freelance Consultant with 10+ years in tech, highly adaptable while working autonomously or within a team. Always committed to maintaining healthy business relationships while crafting high-quality results for clients worldwide.
+— Independent Freelancer with 10+ years in tech, highly adaptable while working autonomously or within a team. Always committed to maintaining healthy business relationships while crafting high-quality results for clients worldwide.
 </i>
 
 ##
 <div dir="rtl"><sub><sup><i>!Vlad Cotfas — Delivering elite solutions from anywhere</i></sup></sub></div>
 
 <br />
-[TL;DR]<br />
 ⚡ <i>Senior Software Engineer with 10+ Yrs Exp<br /></i>
 🗺️ <i>Digital Remote since 2015<br /></i>
 🤖 <i>Android Engineer since 2012<br /></i>
@@ -24,14 +23,11 @@
 💯 <i>Freelance TOPTAL Member since Oct 2024<br /></i>
 🧩 <i>Wrote features that runs on 1M+ mobile devices<br /></i>
 <br />
-[CTA]<br />
 
-► 𝗢𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗳𝗶𝗲𝗹𝗱𝘀!<br />
-► Location →→→ 𝙍𝙚𝙢𝙤𝙩𝙚 𝙤𝙣𝙡𝙮‼️ — Flexibility and openness to occasional on-site visits!<br />
-► Collaboration type: full-time, part-time, freelance, consulting, contracting, B2B.<br />
-► Preferring to work autonomously without micromanagement on startup or product projects where I can be fully involved! 💯<br />
+► `Open to collaborating on mobile engineering, startups, or product projects — fully engaged in remote roles, including full-time, part-time, freelance, consulting, contracting, or B2B. 💯` <br />
+
 <br />
-📍 You know where to find me — https://linkedin.com/in/vladcotfas →→→ vlad@digitalbinary.io 📩<br />
+📍 You can find me at — https://linkedin.com/in/vladcotfas →→→ vlad@digitalbinary.io 📩<br />
 
 <!--
 <br>
