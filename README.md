@@ -5,9 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" />
 </p>
 
+<b>
 <i>
 — Independent Freelancer with 10+ years in tech, highly adaptable while working autonomously or within a team. Always committed to maintaining healthy business relationships while crafting high-quality results for clients worldwide.
 </i>
+</b>
 
 ##
 <div dir="rtl"><sub><sup><i>!Vlad Cotfas — Delivering elite solutions from anywhere</i></sup></sub></div>
