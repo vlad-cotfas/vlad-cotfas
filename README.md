@@ -1,4 +1,5 @@
-[![Top Header](https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/MobileEngineer-Header-1500x500.jpeg)](https://digitalbinary.io)
+<!--[![Top Header](https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/MobileEngineer-Header-1500x500.jpeg)](https://digitalbinary.io)-->
+[![Top Header](https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/zen-header-crop-tiny.png)](https://digitalbinary.io)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=cotfas&color=red&base=100000" />
