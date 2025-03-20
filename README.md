@@ -1,4 +1,3 @@
-<!--[![Top Header](https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/MobileEngineer-Header-1500x500.jpeg)](https://digitalbinary.io)-->
 [![Top Header](https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/zen-header-crop-tiny.png)](https://digitalbinary.io)
 
 <p align="right">
@@ -21,9 +20,9 @@
 📱 <i>Apple / iOS Developer since 2017<br /></i>
 💻 <i>Java Backend Engineer for 3 years<br /></i>
 🏅 <i>Java Oracle Certified in 2013<br /></i>
-♻️ <i>Volunteer and Rotaract Board Treasurer in 2019<br /></i>
-📲 <i>LinkedIn "Top Mobile Apps Voice" from Sep-Dec 2024<br /></i>
-💯 <i>Freelance TOPTAL Member since Oct 2024<br /></i>
+♻️ <i>Volunteer & Treasurer at Rotaract club in 2019<br /></i>
+📲 <i>LinkedIn "Top Mobile Apps Voice" in 2024<br /></i>
+💯 <i>Freelance TOPTAL Member since 2024<br /></i>
 🧩 <i>Wrote features that runs on 1M+ mobile devices<br /></i>
 <br />
 
@@ -32,14 +31,6 @@
 <br />
 📍 You can find me at — https://linkedin.com/in/vladcotfas →→→ vlad@digitalbinary.io 📩<br />
 
-<!--
-<br>
-
-🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻:
-<p align="justify">
-<code>Gabriel M. (Founder and Owner) — “Cotfas has a passion for technologies Java and Android and excels at business oriented problem solving. He was able to walk into a position working on a very complex, enterprise sized application and make an immediate contribution to our team. He always had a grasp of what he should be working on and tackled his tasks in a quick and thorough manner. Cotfas was able to meet every rigid deadline put to him and always maintained an upbeat and motivated attitude. He is always studying up on new technologies and ready to share his findings with his team. He is always willing to help other developers solve problems and mentor junior programmers in an effective way. You can always count on him to contribute thoughtful design ideas and comprehensive solutions. He truly takes pride in his work and always writes eloquent and clean code. Cotfas is truly an asset to whatever company he works for.”</code>
-</p>
--->
 <!--
 <details><summary>🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (click to expand)</summary>
 <br />
