@@ -20,10 +20,10 @@
 📱 <i>Apple / iOS Developer since 2017<br /></i>
 💻 <i>Java Backend Engineer for 3 years<br /></i>
 🏅 <i>Java Oracle Certified in 2013<br /></i>
-♻️ <i>Volunteer & Treasurer at Rotaract club in 2019<br /></i>
+♻️ <i>Volunteer, Treasurer at Rotaract Club in 2019<br /></i>
 📲 <i>LinkedIn "Top Mobile Apps Voice" in 2024<br /></i>
 💯 <i>Freelance TOPTAL Member since 2024<br /></i>
-🧩 <i>Wrote features that runs on 1M+ mobile devices<br /></i>
+🧩 <i>Wrote features for 1M+ mobile devices<br /></i>
 <br />
 
 ► `Open to collaborating on mobile engineering, startups, or product projects — fully engaged in remote roles, including full-time, part-time, freelance, consulting, contracting, or B2B.` 💯<br />
