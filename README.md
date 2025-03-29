@@ -120,7 +120,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
   <sub>💹 <i>Created a Finance Management Android App with account overview, percentage calculations, currency and graphical representation.</i></sub>
   </br>
   <sub>📲 <i>Developed an Android Inspirational Quotes App with daily scheduled notifications, gaining 38k+ installs.</i></sub>
-  <sub><i>— While the Quotes App has a spiritual theme, I’m not deeply fanatic; the project gained traction and taught me about startups.</i></sub>
+  <!--<sub><i>— While the Quotes App has a spiritual theme, I’m not deeply fanatic; the project gained traction and taught me about startups.</i></sub>-->
 </p>
 
 <br />
@@ -129,12 +129,12 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 <table width="100%">
   <tr>
     <td style="text-align: center;">
-      <a href="https://play.google.com/store/apps/details?id=com.cashdivider.app" target="_blank">
+      <a href="#" target="_blank">
         <img src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/CashDividerAndroidApp.png" alt="Cash Divider App" style="width: 100%; max-width: 50%;"/>
       </a>
     </td>
     <td style="text-align: center;">
-      <a href="https://play.google.com/store/apps/details?id=ro.rilley.dailybibleapp" target="_blank">
+      <a href="#" target="_blank">
         <img src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/DailyQuotesApp003.png" alt="Daily Quotes App" style="width: 100%; max-width: 45%;"/>
       </a>
     </td>
