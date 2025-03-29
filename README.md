@@ -241,8 +241,8 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/vlad-cotfas/vlad-cotfas/refs/heads/main/extras/trackpad-app.png">
-  <img align="center" width="75%" src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/trackpad-app.png"/>
+  <a href="#">
+  <img align="center" width="75%" src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/trackpad-app-corr-tiny.png"/>
   </a>
 </p>
 
