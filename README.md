@@ -26,7 +26,7 @@
 🧩 <i>Wrote features for 1M+ mobile devices<br /></i>
 <br />
 
-► `Open to collaborating on mobile engineering, startups, or product projects — fully engaged in remote roles, including full-time, part-time, freelance, consulting, contracting, or B2B.` 💯<br />
+► `Open to collaborating on mobile engineering, startups, or product projects — fully engaged in remote roles, including full-time, part-time, freelance, consulting, contracting, B2B, or C2C.` 💯<br />
 
 <br />
 📍 You can find me at — https://linkedin.com/in/vladcotfas →→→ vlad@digitalbinary.io 📩<br />
