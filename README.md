@@ -146,7 +146,7 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 <!-- Stats projects -->
 <p align="center">
-  <a href="https://raw.githubusercontent.com/vlad-cotfas/vlad-cotfas/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC---blured-tiny.png">
+  <a href="#">
   <img align="center" width="95%" src="https://github.com/vlad-cotfas/vlad-cotfas/blob/main/extras/imgonline-com-ua-twotoone-OPMQ3SBKz3P41LVC---blured-tiny.png"/>
   </a>
 </p>
