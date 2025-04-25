@@ -6,7 +6,7 @@
 
 <b>
 <i>
-— Independent Freelancer with 10+ years in tech, highly adaptable while working autonomously or within a team. Always committed to maintaining healthy business relationships while crafting high-quality results for clients worldwide.
+— Freelancer with 10+ years in tech, highly adaptable while working autonomously or within a team. Always committed to maintaining healthy business relationships while crafting high-quality results for clients worldwide.
 </i>
 </b>
 
