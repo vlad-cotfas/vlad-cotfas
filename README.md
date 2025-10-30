@@ -23,6 +23,7 @@
 ♻️ <i>Volunteer, Treasurer at Rotaract Club in 2019<br /></i>
 📲 <i>LinkedIn "Top Mobile Apps Voice" in 2024<br /></i>
 💯 <i>Freelance TOPTAL Member since 2024<br /></i>
+🎓 <i>Master in Information Technology, MSc, BEng-BSc<br /></i>
 🧩 <i>Wrote features for 1M+ mobile devices<br /></i>
 <br />
 
