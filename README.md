@@ -256,11 +256,11 @@ _ ► 𝘛𝘳𝘢𝘤𝘬𝘱𝘢𝘥 𝘔𝘢𝘤 𝘈𝘱𝘱𝘭𝘪𝘤𝘢
 
 
 -----------------
-> ⚠️ <i>Disclaimer: This is my personal GitHub account, and I took the liberty of making it public. What you see here is only 5% of my entire career — most of my work has been in private repositories, where I’ve contributed as a backend and mobile engineer to high-tech projects for well-known companies, using Java, Kotlin, Swift, and React Native.</i>
+> ⚠️ <i>Disclaimer: This is my professional account, made public for transparency. The showcased work represents only a fraction of my career — most of it resides in private repositories, where I’ve delivered backend and mobile solutions for top-tier companies using Java, Kotlin, Swift, and React Native.</i>
 
 </br>
 
 <div dir="rtl"><sub><i>made with ❤️ by 𝙫𝙡𝙖𝙙[𝙖𝙩]𝙙𝙞𝙜𝙞𝙩𝙖𝙡𝙗𝙞𝙣𝙖𝙧𝙮.𝙞𝙤</i></sub></div>
-<div dir="rtl"><sub><sup><i>profile last updated on March 2025, GitHuber since January 2013</i></sup></sub></div>
+<div dir="rtl"><sub><sup><i>profile last updated on October 2025, GitHuber since January 2013</i></sup></sub></div>
 <div dir="rtl"><sub><sup>"!𝘞𝘩𝘦𝘳𝘦 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘪𝘭𝘭 𝘵𝘩𝘦𝘳𝘦 𝘪𝘴 𝘢 𝘸𝘢𝘺"🪁</sup></sub></div>
 
