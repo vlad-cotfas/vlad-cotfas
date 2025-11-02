@@ -10,6 +10,12 @@
 </i>
 </b>
 
+
+<p>
+</br>
+🧩 Open to remote mobile engineering, startup, or product collaborations — full-time, part-time, freelance, consulting, B2B, or C2C.
+</p>
+
 ##
 <div dir="rtl"><sub><sup><i>!Vlad Cotfas — Delivering elite solutions from anywhere</i></sup></sub></div>
 
