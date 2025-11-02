@@ -13,7 +13,11 @@
 
 <p>
 </br>
+<b>
+<i>
 🧩 Open to remote mobile engineering, startup, or product collaborations — full-time, part-time, freelance, consulting, B2B, or C2C.
+</i> 
+</b>
 </p>
 
 ##
