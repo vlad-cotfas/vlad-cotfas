@@ -43,7 +43,7 @@
 -->
 
 
-📍 If you want to chat with me, you can find me at — https://linkedin.com/in/vladcotfas →→→ vlad@digitalbinary.io 📩<br />
+📍 If you want to chat with me, you can find me at — https://linkedin.com/in/vladcotfas — vlad@digitalbinary.io 📩<br />
 
 <!--
 <details><summary>🤝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 (click to expand)</summary>
