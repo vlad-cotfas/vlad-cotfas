@@ -6,7 +6,7 @@
 
 <b>
 <i>
-— Freelance consultant with 10+ years in software engineering, highly adaptable and experienced in both independent and team-driven environments. Always committed to maintaining healthy business relationships while delivering high-quality solutions for clients worldwide.
+— Freelance consultant with 10+ years in software engineering, highly adaptable and experienced in both independent and team-driven engagements, delivering top-quality mobile and backend solutions while building strong, long-term client relationships.
 </i>
 </b>
 
@@ -15,7 +15,7 @@
 </br>
 <b>
 <i>
-🧩 Open to remote mobile engineering, startup, or product collaborations — full-time, part-time, freelance, consulting, B2B, or C2C.
+🧩 Available for remote mobile engineering, startup, or product collaborations — full-time, part-time, freelance, consulting, B2B, or C2C.
 </i> 
 </b>
 </p>
