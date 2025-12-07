@@ -6,7 +6,7 @@
 
 <b>
 <i>
-— Freelance consultant with 10+ years in software engineering, highly adaptable and experienced in both independent and team-driven environments. Always committed to maintaining healthy business relationships while crafting high-quality results for clients worldwide.
+— Freelance consultant with 10+ years in software engineering, highly adaptable and experienced in both independent and team-driven environments. Always committed to maintaining healthy business relationships while delivering high-quality solutions for clients worldwide.
 </i>
 </b>
 
