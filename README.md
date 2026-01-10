@@ -11,14 +11,14 @@
 </b>
 
 
-<p>
+<!--<p>
 </br>
 <b>
 <i>
 🧩 Available for remote mobile engineering, startup, or product collaborations — full-time, part-time, freelance, consulting, B2B, or C2C.
 </i> 
 </b>
-</p>
+</p>-->
 
 ##
 <!--<div dir="rtl"><sub><sup><i>!Vlad Cotfas — Delivering elite solutions from anywhere</i></sup></sub></div>-->
