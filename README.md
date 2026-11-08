@@ -6,7 +6,7 @@
 
 <b>
 <i>
-— Freelance consultant with 10+ years in engineering, highly adaptable across independent and team-driven engagements, delivering top-quality mobile and backend solutions while building strong client relationships.
+— Freelance consultant with 10+ years in software engineering, experienced in production-grade mobile and backend solutions across Android, iOS, and AI-powered applications. Experienced in owning features end-to-end, working directly with stakeholders, and delivering at scale.
 </i>
 </b>
 
